@@ -1,9 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://studionaomikaa.in/</loc><lastmod>2026-09-06</lastmod><image:image><image:loc>https://studionaomikaa.in/images/hero-main.svg</image:loc><image:title>Studio Naomikaa interior design studio in Hyderabad</image:title></image:image></url>
-  <url><loc>https://studionaomikaa.in/services.html</loc><lastmod>2026-09-06</lastmod></url>
-  <url><loc>https://studionaomikaa.in/about.html</loc><lastmod>2026-09-06</lastmod></url>
-  <url><loc>https://studionaomikaa.in/blog.html</loc><lastmod>2026-09-06</lastmod><image:image><image:loc>https://studionaomikaa.in/images/blog-1.svg</image:loc><image:title>Studio Naomikaa interior design journal</image:title></image:image></url>
-  <url><loc>https://studionaomikaa.in/blog-post.html</loc><lastmod>2026-09-06</lastmod><image:image><image:loc>https://studionaomikaa.in/images/blog-1.svg</image:loc><image:title>Small apartment interior design planning guide</image:title></image:image></url>
-  <url><loc>https://studionaomikaa.in/contact.html</loc><lastmod>2026-09-06</lastmod></url>
+  <url>
+    <loc>https://studionaomikaa.in/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://studionaomikaa.in/images/hero-main.svg</image:loc>
+      <image:title>Studio Naomikaa interior design studio in Hyderabad, India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://studionaomikaa.in/services.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://studionaomikaa.in/images/svc-residential.svg</image:loc>
+      <image:title>Interior design services in Hyderabad and across India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://studionaomikaa.in/about.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://studionaomikaa.in/images/hero-about.svg</image:loc>
+      <image:title>Brishti Roy, founder of Studio Naomikaa interior design studio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://studionaomikaa.in/contact.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://studionaomikaa.in/blog.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://studionaomikaa.in/images/blog-1.svg</image:loc>
+      <image:title>Studio Naomikaa interior design journal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://studionaomikaa.in/blog-post.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://studionaomikaa.in/images/blog-1.svg</image:loc>
+      <image:title>Small apartment interior design planning guide</image:title>
+    </image:image>
+  </url>
 </urlset>

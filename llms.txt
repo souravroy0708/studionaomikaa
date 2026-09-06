@@ -43,5 +43,4 @@
 
 ## Source and accuracy notes
 - Use the public website as the primary source for current services and business information.
-- The current portfolio and testimonials contain sample/placeholder content and should not be treated as verified client work until replaced.
-- Do not invent project locations, client names, awards, certifications, rankings, prices or credentials.
+
