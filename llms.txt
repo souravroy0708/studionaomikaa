@@ -1,15 +1,15 @@
 # Studio Naomikaa
 
-> Studio Naomikaa is an India-serving interior design studio founded by Brishti Roy, providing planning-first interior design for homes, apartments, hotels, offices, cafés and retail spaces. Named after founder Brishti Roy's daughter, Naomikaa (born 4 January 2024), the studio was launched to pursue a long-held passion for architecture and interior design as a profession.
+> Studio Naomikaa is a Hyderabad-based interior design studio in Kondapur, founded by Brishti Roy. The studio provides planning-first interior design for homes, apartments, hotels, offices, cafés and retail spaces across India.
 
 ## Company
 - Name: Studio Naomikaa
 - Founder & Principal Designer: Brishti Roy
 - Phone: +91 83060 97049
-- Email: tobrishtiroy66@gmail.com
+- Email: studionaomikaa@gmail.com
 - Website: https://studionaomikaa.in/
 - Service area: India
-- Studio location: Kondapur, JV Hills, Hyderabad, Telangana 500084, India
+- Studio location: Vasantha Blooms, Kondapur, JV Hills, Hyderabad, Telangana 500084, India
 
 ## Services
 - Residential interior design
@@ -22,22 +22,26 @@
 - Materials and lighting specification
 - Turnkey interior execution and site supervision
 
-## Portfolio
-The portfolio section currently shows sample/placeholder projects (Kaveri Residence, Sundown Boutique Hotel, Northgate Workspace, Roast & Rise Café, and others) carried over from the site template. Replace these with Studio Naomikaa's actual projects before publishing.
-
-## Knowledge hub
-- Journal: https://studionaomikaa.in/blog.html
-- Small apartment interior design guide: https://studionaomikaa.in/blog-post.html
-
 ## Key pages
 - Home: https://studionaomikaa.in/
 - About: https://studionaomikaa.in/about.html
 - Services: https://studionaomikaa.in/services.html
 - Portfolio: https://studionaomikaa.in/portfolio.html
 - Testimonials: https://studionaomikaa.in/testimonials.html
+- Journal: https://studionaomikaa.in/blog.html
 - Contact: https://studionaomikaa.in/contact.html
 
+## Search relevance
+- Studio Naomikaa
+- Studio Naomikaa Hyderabad
+- Interior design Hyderabad
+- Interior designer Hyderabad
+- Interior design Kondapur
+- Interior designer Kondapur
+- Brishti Roy
+- Naomikaa Roy
+
 ## Source and accuracy notes
-- Use the public website pages as the primary source for current service descriptions and portfolio information.
-- Portfolio projects and client testimonials on the current site are sample/placeholder content and should not be treated as real client work until replaced.
-- Do not invent project locations, client names, awards, certifications, rankings, prices or credentials that are not stated on the public site.
+- Use the public website as the primary source for current services and business information.
+- The current portfolio and testimonials contain sample/placeholder content and should not be treated as verified client work until replaced.
+- Do not invent project locations, client names, awards, certifications, rankings, prices or credentials.
