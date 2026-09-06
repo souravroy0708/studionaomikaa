@@ -1,0 +1,51 @@
+STUDIO NAOMIKAA — BEFORE YOU LAUNCH studionaomikaa.in
+
+This site was rebranded from a generic template. The brand name, founder
+name, domain, and site-wide copy have all been updated to Studio Naomikaa /
+Brishti Roy. A few things still need your real details before you publish —
+search each file for the placeholders below.
+
+1. CONTACT DETAILS (used on every page's footer, nav, and contact page)
+   - Phone number: currently "+91 XXXXX XXXXX" / tel:+91XXXXXXXXXX
+   - WhatsApp number: currently wa.me/91XXXXXXXXXX
+   - Email address: currently hello@studionaomikaa.in — set up this inbox,
+     or swap in whichever address you'll actually monitor.
+   - City / state: currently "[Your City]" / "[Your State]" in the footer,
+     contact page, and page metadata.
+
+2. LOGO
+   - The nav/footer currently use a text monogram ("SN"). Swap in your
+     real logo file once you have one — you mentioned this is the one
+     asset you're still missing.
+
+3. PORTFOLIO (portfolio.html, and the featured project + carousel on
+   index.html)
+   - All current projects (Kaveri Residence, Sundown Boutique Hotel,
+     Northgate Workspace, etc.) are SAMPLE PLACEHOLDER projects carried
+     over from the template, now labelled "sample project" so it's clear
+     they aren't real work. Replace names, photos, and descriptions with
+     your own projects before publishing.
+
+4. TESTIMONIALS (testimonials.html, and the homepage testimonial carousel)
+   - All reviewer names and quotes are SAMPLE PLACEHOLDER testimonials,
+     labelled accordingly. Replace with real client feedback once you
+     have it — never publish invented reviews.
+
+5. TEAM (about.html)
+   - Brishti Roy's bio now reflects your real story. The other two team
+     card placeholders ("Design Development Lead", "Site & Execution
+     Lead") are generic role labels — add real names/photos once you're
+     ready to name your team members.
+
+6. SOCIAL LINKS
+   - Instagram/Facebook/Pinterest icons in the footer currently link to
+     "#" (nowhere). Add your real profile URLs.
+
+7. CONTACT FORM
+   - The form on contact.html is a static demo (see the note under the
+     submit button). Connect it to an email service or CRM so submissions
+     actually reach you.
+
+Everything else — page structure, styling, the "plan before palette"
+process copy, service descriptions, and SEO/schema markup — has already
+been fully rebranded to Studio Naomikaa and is ready to use as-is.

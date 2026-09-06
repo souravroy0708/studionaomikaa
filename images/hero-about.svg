@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1100 820" xmlns="http://www.w3.org/2000/svg">
+<rect width="1100" height="820" fill="#211D18"/>
+<defs><pattern id="dotsabout-hero.svg" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A8823F" opacity="0.18"/></pattern></defs>
+<rect width="1100" height="820" fill="url(#dotsabout-hero.svg)"/>
+<rect x="60" y="60" width="980" height="700" fill="none" stroke="#DFC790" stroke-width="2.5"/>
+<rect x="90" y="90" width="440" height="300" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="104" y="116" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">RECEPTION</text>
+<rect x="570" y="90" width="440" height="300" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="584" y="116" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">CONFERENCE</text>
+<rect x="90" y="430" width="460" height="300" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="104" y="456" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">OPEN DESK BAY</text>
+<rect x="590" y="430" width="420" height="300" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="604" y="456" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">DIRECTOR'S CABIN</text>
+</svg>

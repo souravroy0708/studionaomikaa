@@ -1,0 +1,8 @@
+# Studio Naomikaa — robots.txt
+# Public website: https://studionaomikaa.in/
+# Allow search engines and answer engines to crawl public pages.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://studionaomikaa.in/sitemap.xml

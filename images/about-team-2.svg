@@ -1,0 +1,10 @@
+<svg viewBox="0 0 700 820" xmlns="http://www.w3.org/2000/svg">
+<rect width="700" height="820" fill="#211D18"/>
+<defs><pattern id="dotsabout-team-2.svg" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A8823F" opacity="0.18"/></pattern></defs>
+<rect width="700" height="820" fill="url(#dotsabout-team-2.svg)"/>
+<rect x="60" y="60" width="580" height="700" fill="none" stroke="#DFC790" stroke-width="2.5"/>
+<rect x="70" y="70" width="560" height="340" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="84" y="96" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">PROFILE</text>
+<rect x="70" y="450" width="560" height="300" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="84" y="476" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">PORTFOLIO</text>
+</svg>

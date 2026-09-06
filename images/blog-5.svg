@@ -1,0 +1,10 @@
+<svg viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="620" fill="#211D18"/>
+<defs><pattern id="dotsblog-5.svg" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A8823F" opacity="0.18"/></pattern></defs>
+<rect width="900" height="620" fill="url(#dotsblog-5.svg)"/>
+<rect x="60" y="60" width="780" height="500" fill="none" stroke="#DFC790" stroke-width="2.5"/>
+<rect x="80" y="80" width="360" height="440" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="94" y="106" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">STORAGE</text>
+<rect x="480" y="80" width="360" height="440" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="494" y="106" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">LIGHTING</text>
+</svg>

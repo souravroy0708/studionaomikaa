@@ -1,0 +1,12 @@
+<svg viewBox="0 0 900 680" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="680" fill="#211D18"/>
+<defs><pattern id="dotssvc-hotel.svg" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A8823F" opacity="0.18"/></pattern></defs>
+<rect width="900" height="680" fill="url(#dotssvc-hotel.svg)"/>
+<rect x="60" y="60" width="780" height="560" fill="none" stroke="#DFC790" stroke-width="2.5"/>
+<rect x="90" y="90" width="760" height="180" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="104" y="116" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">LOBBY & FRONT DESK</text>
+<rect x="90" y="310" width="360" height="270" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="104" y="336" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">GUEST SUITE</text>
+<rect x="490" y="310" width="360" height="270" fill="none" stroke="#A8823F" stroke-width="1.5" stroke-dasharray="0"/>
+<text x="504" y="336" font-family="Inter, sans-serif" font-size="13" fill="#DFC790" opacity="0.85" letter-spacing="0.5">BANQUET HALL</text>
+</svg>
